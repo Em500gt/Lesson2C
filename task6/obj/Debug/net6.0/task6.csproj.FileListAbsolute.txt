@@ -1,0 +1,15 @@
+E:\GeekBrains\Egor\Lesson2\task6\bin\Debug\net6.0\task6.exe
+E:\GeekBrains\Egor\Lesson2\task6\bin\Debug\net6.0\task6.deps.json
+E:\GeekBrains\Egor\Lesson2\task6\bin\Debug\net6.0\task6.runtimeconfig.json
+E:\GeekBrains\Egor\Lesson2\task6\bin\Debug\net6.0\task6.dll
+E:\GeekBrains\Egor\Lesson2\task6\bin\Debug\net6.0\task6.pdb
+E:\GeekBrains\Egor\Lesson2\task6\obj\Debug\net6.0\task6.csproj.AssemblyReference.cache
+E:\GeekBrains\Egor\Lesson2\task6\obj\Debug\net6.0\task6.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\Egor\Lesson2\task6\obj\Debug\net6.0\task6.AssemblyInfoInputs.cache
+E:\GeekBrains\Egor\Lesson2\task6\obj\Debug\net6.0\task6.AssemblyInfo.cs
+E:\GeekBrains\Egor\Lesson2\task6\obj\Debug\net6.0\task6.csproj.CoreCompileInputs.cache
+E:\GeekBrains\Egor\Lesson2\task6\obj\Debug\net6.0\task6.dll
+E:\GeekBrains\Egor\Lesson2\task6\obj\Debug\net6.0\refint\task6.dll
+E:\GeekBrains\Egor\Lesson2\task6\obj\Debug\net6.0\task6.pdb
+E:\GeekBrains\Egor\Lesson2\task6\obj\Debug\net6.0\task6.genruntimeconfig.cache
+E:\GeekBrains\Egor\Lesson2\task6\obj\Debug\net6.0\ref\task6.dll
